@@ -1,4 +1,4 @@
-###Research Mapper
+### Research Mapper
 
 A C++ data structures and algorithms project that builds a research publication database over authors, articles, and their relationships to enable efficient search, analytics, and collaboration queries[2].
 
